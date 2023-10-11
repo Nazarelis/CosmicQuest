@@ -1,0 +1,6 @@
+.container-footer{
+    background-color: #111326;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}

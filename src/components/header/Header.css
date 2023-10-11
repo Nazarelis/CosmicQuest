@@ -1,0 +1,21 @@
+.Header{
+    width: 100%;
+    height: 10%;
+    background-color: #111326;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1% 0%;
+}
+.container-logo{
+    width: 50%;
+}
+.container-title{
+    width: 50%;
+}
+h1{
+    font-size: 2em;
+    white-space: nowrap;
+
+}
